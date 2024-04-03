@@ -1,0 +1,134 @@
+.container-css{
+  background-color:black;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+
+.container-flex{
+  display: flex;
+  align-items: start;
+  justify-content: space-evenly;
+  color: white;
+  
+}
+
+.grid-container{
+display: grid;
+grid-template-columns: repeat(4, 1fr);
+grid-template-rows: repeat(4,1fr);
+color: royalblue;
+height: 500px;
+grid-gap:4px;
+}
+.grid-container > h1{
+  margin: 0px;
+  padding: 0px;
+}
+
+.grid1{
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.grid2{
+  background-color: palevioletred;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.grid3{
+  background-color: lawngreen;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.grid4{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: saddlebrown;
+}
+
+
+.grid5{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:firebrick;
+}
+
+.grid6{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: honeydew;
+}
+
+.grid7{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:beige;
+}
+
+.grid8{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: orange;
+}
+
+.grid9{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: violet;
+}
+.grid10{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: fuchsia;
+}
+.grid11{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:blanchedalmond;
+}
+.grid12{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: blueviolet;
+}
+.grid13{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: darkblue;
+}
+.grid14{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: salmon;
+}
+.grid15{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: wheat;
+}
+.grid16{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:darkblue;
+}
